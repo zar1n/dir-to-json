@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+__author__ = "Kosovets Sergey @ Zar1n"
+
 import os
 import json
 import hashlib
